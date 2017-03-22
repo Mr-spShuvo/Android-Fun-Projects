@@ -1,0 +1,7 @@
+#Mon Mar 13 20:18:42 BDT 2017
+base.0=P\:\\FunnyFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f2b0be96e9dce6bd18a5ac64fe0dc1bee992629
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=P\:\\FunnyFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05f5d88ec71d1112ea875a2acfafe4ddd176a911\\classes.dex
+base.1=P\:\\FunnyFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_05f5d88ec71d1112ea875a2acfafe4ddd176a911
+file.0=P\:\\FunnyFacts\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1f2b0be96e9dce6bd18a5ac64fe0dc1bee992629\\classes.dex
